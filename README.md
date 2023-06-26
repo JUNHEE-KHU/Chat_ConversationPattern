@@ -15,8 +15,8 @@
 
 ## Requirements
 For building and running the application you need:
-Python 3.9
-torch 1.13.1
+Python 3.9\n
+torch 1.13.1\n
 transformers 4.26.0
 pandas 1.5.3
 emoji 2.2.0
