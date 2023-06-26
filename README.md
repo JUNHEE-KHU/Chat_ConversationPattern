@@ -15,7 +15,9 @@
 
 ## Requirements
 For building and running the application you need:
+
 Python 3.9
+
 torch 1.13.1
 
 transformers 4.26.0
