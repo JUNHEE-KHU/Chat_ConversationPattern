@@ -6,11 +6,11 @@
 
 <img width="483" alt="image" src="https://github.com/JUNHEE-KHU/Chat_ConversationPattern/assets/83714945/17ed4347-d7a1-4405-b1eb-7671e1327748">
 
-대화 상대방이 사용자에게 평소에 "엄마"라는 지칭단어를 5번 이상 사용했지만 갑자기 "어머니"라는 다른 지 칭단어를 사용했기 때문에 경고창이 뜬다.
+대화 상대방이 사용자에게 평소에 "엄마"라는 지칭단어를 5번 이상 사용했지만 갑자기 "어머니"라는 다른 지칭단어를 사용했기 때문에 경고창 발생
 
 <img width="477" alt="image" src="https://github.com/JUNHEE-KHU/Chat_ConversationPattern/assets/83714945/69dc5b56-8ac2-460e-af98-1791551ac6a5">
 
-대화 상대방이 평소에 80%이상의 확률로 반말을 사용했지만 갑자 기 존댓말을 사용했기 때문에 경고창이 뜬다.
+대화 상대방이 평소에 80%이상의 확률로 반말을 사용했지만 갑자기 존댓말을 사용했기 때문에 경고창 발생
 
 
 ## Requirements
